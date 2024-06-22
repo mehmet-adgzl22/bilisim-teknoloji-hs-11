@@ -1,0 +1,182 @@
+.logo{
+    height: 60px;
+}
+
+.ayrac{
+    font-size: 20px;
+    margin: 0 20px;
+    color: white;
+}
+.nav-bg{
+    background-color: rgba(70, 70, 70, 0.301);
+}
+
+ .header-yuk{
+    height: calc(50vh - 70px);
+ }
+ .sayfa-baslik h3{
+    color: #DA7719;
+    font-weight: bold;
+ }
+ .sayfa-baslik p{
+    color: #fff;
+    font-weight: bold;
+ }
+.ust-kisim{
+    background-image: url(./resimler/ust-bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ust-kisim-sayfalar{
+    background-image: url(./resimler/ust-bg-2.jpg);
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.nav-item a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    color:#DA7719;
+}
+
+.navbar-toggler{
+    color: white;
+    background-color: #DA7719;
+}
+
+@media screen and  (max-width:992px) {
+    .ayrac{
+        display: none;
+    }
+    .nav-item:hover{
+background-color: black;
+    }
+    .navbar-toggler{
+       z-index: 999;
+       position: fixed;
+       right: 10px;
+       top: 20px;
+
+    }
+    .pozisyon{
+        width: 100%;
+        height: 100vh;
+        background-color: #DA7719;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        padding-top: 60px;
+
+    }
+}
+
+.bosluk{
+    margin-top: 100px;
+}
+
+/*----Teklif Kısmı----*/
+
+.teklif{
+    height: 60px;
+}
+
+.tirnak{
+    color: #DA7719;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.imza{
+    font-size: 20px;
+}
+
+
+/*----Hizmetlerimiz Kısmı----*/
+.hizmetlerimiz{
+background-color: #DA7719;
+}
+
+/*----Çalışanlar Kısmı----*/
+
+
+
+/*-----Slogan Kısmı----*/
+.tirnak1{
+    color: #DA7719;
+    font-size: 55px;
+    font-weight: bold;
+}
+.soz{
+    font-size: 40px;
+    color: white;
+}
+
+.slogan{
+    background-image: url(./resimler/ust-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.roket-icon{
+    font-size: 150px;
+    color: white;
+}
+
+/*------Çalışmalarımız Kısmı----*/
+.calisma{
+padding: 5px;
+border: 1px solid transparent;
+}
+.calisma:hover{
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.calisma img{
+    height: 150px;
+}
+
+/*------Footer Kısmı----*/
+
+.footer{
+    background-color:#2C3E50;
+    height: 300px;
+    color: #95a5a6;
+}
+.footer p{
+    font-size: 18px;
+}
+.footer-sutun{
+    height: 300px;
+}
+
+.icons i:hover{
+ color:aqua;
+}
+
+/*-----Portföyümüz kısmı---*/
+.kurumsal-calisma{
+    height: 170px;
+}
+
+/*-----Blog kısmı---*/
+.devam a:hover{
+color: black !important;
+}
+
+/*-----İletişim kısmı---*/
+
+.simgeler{
+    font-size: 16px;
+}
