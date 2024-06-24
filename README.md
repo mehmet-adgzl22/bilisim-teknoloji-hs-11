@@ -20,3 +20,4 @@ https://bilisim-teknoloji.netlify.app/
 
 
 # Bilisim-Teknoloji-hs-11-Proje Gif
+![bilisim-teknoloji](https://github.com/mehmet-adgzl22/bilisim-teknoloji-hs-11/assets/169144147/a7449990-d302-48ef-81d0-c8a894338e51)
