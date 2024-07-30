@@ -16,7 +16,7 @@
 </ul>
 
 # Bilisim-Teknoloji-hs-11-Proje Bağlantı Linki
-https://bilisim-teknoloji.netlify.app/
+https://bilisim-teknoloji-hs11.netlify.app/
 
 
 # Bilisim-Teknoloji-hs-11-Proje Gif
